@@ -1,2 +1,2 @@
-This is file from Remote Repo
+This is file from Remote Repo - conflict from Dev1
 Edit file for check git pull
